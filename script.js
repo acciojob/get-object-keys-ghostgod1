@@ -1,6 +1,8 @@
 //your JS code here. If required.
 let student = {
-	name: "Ankit"
+	name: "Ankit",
+	age: 22,
+	city: "Pune"
 }
 
 function getKeys(obj) {
